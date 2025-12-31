@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "system-monitor": {
+      "command": "python",
+      "args": ["./system-monitor/server.py"]
+    },
+    "sqlite-explorer": {
+      "command": "python",
+      "args": ["./sqlite-explorer/server.py"]
+    },
+    "crypto-assistant": {
+      "command": "python",
+      "args": ["./crypto-assistant/server.py"]
+    }
+  }
+}
