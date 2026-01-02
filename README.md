@@ -26,3 +26,5 @@ Local hardware monitoring bridge.
 3. Install dependencies:
    ```bash
    pip install mcp psutil requests
+```
+4. Configure your claude_desktop_config.json following the example in claude_config_example.json.  
